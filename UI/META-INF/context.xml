@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ergasia_baseis_supermarket">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxIdle="30" maxTotal="100" maxWaitMillis="10000" name="jdbc/ergasia_baseis_supermarketDB" password="Runny84No$e97" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/ergasia_baseis_supermarket?useUnicode=true&amp;characterEncoding=UTF-8&amp;characterSetResults=UTF-8&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=Europe/Athens" username="root"/>
+</Context>
